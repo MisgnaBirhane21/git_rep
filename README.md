@@ -1,0 +1,2 @@
+- alyways use git like main for production, development for testing and development and features for add new feature after it is done push to development just merge it
+- 
